@@ -34,4 +34,7 @@ private:
 
 };
 
+
+
+
 #endif /* HERO_H_ */
